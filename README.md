@@ -1,5 +1,5 @@
 # Teals - Level 1 Heading
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/ddeverger-teals-wmsxf77r/lab)
+[![Binder](https://hub.gke2.mybinder.org/user/pausang1-teals-3rduyvl4/lab)
 
 This is my text under level 1. This is for the **Introduction to Software Technology** class at *Towers High School*! Links are easy to make - the high school can be found[here](https://www.towershs.dekalb.k12.ga.us/)
 
